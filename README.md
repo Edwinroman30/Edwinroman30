@@ -1,7 +1,15 @@
+
 ## Hi, I´m Edwin  ✌👋🏼😁
 
-This is my GITHUB acount, I´m younge that enjoy this world about tech. Now, I´m studing to become a Software Engineer. The principals technology that I know are: HTML, CSS, JS, SQL and some bases knolew about PHP and C#.
+Welcome to my my GITHUB account, as you can see over there, my name is Edwin. I´m young that enjoy this world about tech, programming, math, data science and all relate to tech.
 
+More about me... now I´m working pretty hard to become Software Engineer. The principal technology that I know or more and less I managers are: HTML, CSS, JS, SQL, Python and some bases noble about PHP and C#.
 
+<center>
+También hablo español 😁
+</center>
+
+<center>
 <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif"/>
 <p><a href="https://giphy.com/gifs/usnationalarchives-vintage-computer-3ov9jNziFTMfzSumAw">GIF from GIPHY</a></p>
+</center>
