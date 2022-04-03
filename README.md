@@ -14,3 +14,8 @@ More about me... now I´m working pretty hard to become Software Engineer. The p
 Pre-Researches and Colaborations:
    - [Free Software in the Software Studens and Profesionals Enviroment of RD (Spanish)](https://drive.google.com/file/d/13TE8tBqPlfiEOXVvBzivkAcgsqYi84we/view?usp=sharing)
    - [Programming and Calculus (Spanish)](https://docs.google.com/presentation/d/1zPg71elEGK68mJogZ65Hyl_ZE1HgIqi_hXvj4J2V33g/edit?usp=sharing "Programming and Calculus")
+
+Interests:
+ - IoT.
+ - Web Security.
+ - Agile Management.
