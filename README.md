@@ -4,7 +4,7 @@
 Welcome to  my GITHUB account, as you can see over there, my name is Edwin. I'm a young boy that enjoys this world of computer science, engineering software, programming, sciences, IoT, and everything related to technology.
 
 
-More about me... Now I´m working pretty hard to become a Software Engineer and doing some interesting stuff with programming. The principal technologies that I know or more and less I manage are: HTML, CSS, JS, a bit of Wordpress, SQL, (DBA Skills in MSSQL), Python and some bases about PHP, C# and Java.
+More about me... Now I´m working pretty hard to become a Software Engineer and doing some interesting stuff with programming. The principal technologies that I know or more and less I manage are: HTML, CSS, JS, C# a bit of Wordpress, SQL, (DBA Skills in MSSQL), Python and some bases about PHP and Java.
 
 <center>
    
