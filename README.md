@@ -13,7 +13,8 @@ More about me... Now I´m working pretty hard to become a Software Engineer and 
 </center>
 
 Pre-Researches and Colaborations:
-   - [Free Software in the Software Studens and Profesionals Enviroment of RD (Spanish)](https://drive.google.com/file/d/13TE8tBqPlfiEOXVvBzivkAcgsqYi84we/view?usp=sharing)
+   - [Real Estate web Application + API](http://tupropiedad.somee.com/)
+   - [Netbanking web Application](http://banking.somee.com)
    - [Programming and Calculus (Spanish)](https://docs.google.com/presentation/d/1zPg71elEGK68mJogZ65Hyl_ZE1HgIqi_hXvj4J2V33g/edit?usp=sharing "Programming and Calculus")
 
 Interests:
