@@ -1,15 +1,14 @@
 
 ## Hi, I´m Edwin  ✌👋🏼😁
 
-Welcome to  my GITHUB account, as you can see over there, my name is Edwin. I'm a young boy that enjoys this world of computer science, engineering software, programming, sciences, IoT, and everything related to technology.
+Welcome to  my GITHUB account, as you can see over there, I’m Edwin. A Backend Engineer/Developer with good skills in front-end development, also a passionate of technologies world and how we used to solve real world situations. Key topics that I enjoy: Computer Science, Engineering Software Principles, Sciences, IoT, and everything related to technology.
 
+More about me... Now I´m working pretty hard to become a Software Engineer and doing some interesting stuff with programming.
 
-More about me... Now I´m working pretty hard to become a Software Engineer and doing some interesting stuff with programming. The principal technologies that I know or more and less I manage are: HTML, CSS, JS, C# a bit of Wordpress, SQL, (DBA Skills in MSSQL), Python and some bases about PHP and Java.
+<center>   
 
-<center>
-   
    `console.log('¡También hablo español y es mi lenguaje nativo 😁!')` 
-   
+
 </center>
 
 Pre-Researches and Colaborations:
